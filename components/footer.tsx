@@ -20,25 +20,25 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                 <div className="flex items-center gap-2 flex-col">
                     <div className="flex items-center gap-4 max-md:gap-2">
                         <Link
-                            href="https://t.me/fevzie_ablaeva"
+                            href="https://t.me/VISTATOURBEST"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaTelegram size={30} />
                         </Link>
                         <Link
-                            href="https://www.instagram.com/fevzie_ablaeva/"
+                            href="https://www.instagram.com/suhrobuk87/"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaInstagram size={30} />
                         </Link>
                         <Link
-                            href="https://www.facebook.com/fewzie.ablaewa"
+                            href="https://www.instagram.com/suhrobuk87/"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaFacebook size={30} />
                         </Link>
                         <Link
-                            href="mailto:afevzie@inbox.ru"
+                            href="suhrobuk87@gmail.com"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FiMail size={30} />
