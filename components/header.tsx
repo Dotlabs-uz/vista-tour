@@ -1,12 +1,27 @@
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+"use client";
+
+import {
+    Select,
+    SelectContent,
+    SelectItem,
+    SelectTrigger,
+    SelectValue,
+} from "@/components/ui/select";
+import { useRouter } from "next/navigation";
 
 interface HeaderProps {
     page: any;
     lang: string;
 }
 
-const Header: React.FunctionComponent<HeaderProps> = ({ page,lang }) => {
+const Header: React.FunctionComponent<HeaderProps> = ({ page, lang }) => {
     function ChangeLanguage() {}
+
+    const router = useRouter();
+
+    function changeVal(e: any) {
+        router.push(`/${e}`)
+    }
 
     return (
         <header className=" w-full p-4 bg-[#3ba4ec]">
@@ -39,7 +54,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({ page,lang }) => {
                         >
                             {page.ContactsText}
                         </p>
-                        <Select>
+                        <Select onValueChange={changeVal}>
                             <SelectTrigger className="w-[70px] rounded-lg text-black">
                                 <SelectValue placeholder={lang.toUpperCase()} />
                             </SelectTrigger>

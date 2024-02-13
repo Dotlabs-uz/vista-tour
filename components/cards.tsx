@@ -2,12 +2,13 @@ import Link from "next/link";
 
 interface CardProps {
     item:any
+    lang:string
 }
 
-const Card: React.FunctionComponent<CardProps> = ({item}) => {
+const Card: React.FunctionComponent<CardProps> = ({item,lang}) => {
     return (
         <Link
-            href={`/${item.id}`}
+            href={`/${lang}/${item.id}`}
             data-aos="fade-right"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"

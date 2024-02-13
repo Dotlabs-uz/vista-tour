@@ -105,7 +105,7 @@ export default async function Home({
 
                     <section className="grid grid-cols-3 max-lg:grid-cols-2 max-sm:grid-cols-1 gap-5 mb-5">
                         {tours.map((item, indx) => (
-                            <Card item={item} key={indx} />
+                            <Card lang={lang} item={item} key={indx} />
                         ))}
                     </section>
                 </div>
