@@ -113,34 +113,6 @@
                     "img": "https://www.advantour.com/img/uzbekistan/images/samarkand.jpg",
                     "body": "Shahi -Zinda   «living king» - a monument of medieval architecture in Samarkand ensemble of mausoleums of Karakhanid and Timurid nobility. The surviving complex consists of eleven mausoleums, successively attached to each other during the 14th-15th centuries."
                 }
-            ],
-            "extraTitle": "What can be further seen in Samarkand",
-            "extraPlaces": [
-                {
-                    "title": "Mausoleum of Saint Daniel or Hodja Donier",
-                    "img": "https://www.advantour.com/img/uzbekistan/images/samarkand.jpg",
-                    "body": "Mausoleum of Khoja Doniyor in Samarkand above the grave of one of the saints. According to legendary information of the XVIII century, the mausoleum buried the ashes of the Old Testament biblical prophet Daniyar (Daniel), whose remains were brought to Samarkand and buried by the Middle Asian medieval commander and conqueror Amir Timur (Tamerlan)."
-                },
-                {
-                    "title": "Museum of Winery. Hovrenko",
-                    "img": "https://www.advantour.com/img/uzbekistan/images/samarkand.jpg",
-                    "body": "Samarkand, famous for its historical attractions, can surprise and its museums, among which a special place is occupied by the Museum of Winemaking, which has been more than 150 years. Here wine tasting is held. In Samarkand, an excellent grape variety, which was distinguished by a high sugar content, was grown. Arriving here Russian winemaker and businessman D.M. Filatov opened the first winery in Uzbekistan. For 15 years of work he brought the plant to the world level - the developed wine variety «Biishta» (which translates as «paradise») received a gold medal at the International Wine and Cognac Exhibition in Paris, after which collectors from all over the world began to come to Samarkand for this amazing wine. "
-                },
-                {
-                    "title": "Samarkand paper -  Manual production at the paper mill 'Meros'",
-                    "img": "https://www.advantour.com/img/uzbekistan/images/samarkand.jpg",
-                    "body": "Today in Konigil Kishlak near Samarkand there is a paper factory «Meros», the founders of which are famous masters of Mukhtarov brothers. Thanks to their efforts, the ancient tradition of making paper using old Samarkand technologies was revived in the local factory.  It is interesting that all production is done manually and every guest of the factory can personally observe the production of paper."
-                },
-                {
-                    "title": "Theatre of historical costume «El Merosi»",
-                    "img": "https://www.advantour.com/img/uzbekistan/images/samarkand.jpg",
-                    "body": "Theatre of historical costume «El Merosi» («Folk Heritage») has been functioning in Samarkand since 2005. Today the theater «El Merosi» offers to your attention costumes of different historical eras, which in the language of ornamentation, colors and forms reveal to us many secret and beauty laws of folk art. According to the beliefs, the costume not only isolates the person from the external environment, but also strengthens it with magical actions, often encrypted in drawings, ornaments, etc. In the Samarkand Theatre of the historical costume 'El Merosi' you can get acquainted with life, the way of life, customs and traditions of the inhabitants of our region from ancient times to the present. Here are the costumes of different historical periods"
-                },
-                {
-                    "title": "Master class of preparation of Samarkand Plov",
-                    "img": "https://www.advantour.com/img/uzbekistan/images/samarkand.jpg",
-                    "body": "Plov is the calling card of Uzbekistan! But they prepare it in different areas of our country in different ways. We suggest you prepare Samarkand pilaf according to our video recipe. The peculiarity of plov in Samarkand is that when serving it is not mixed, but laid on the dish layers. This allows you to choose the ratio of rice, carrots and meat falling into the spoon and get a different taste."
-                }
             ]
         },
         {
@@ -305,86 +277,86 @@
         },
         {
             "id": 6,
-            "title": "Тур по Дубаю",
-            "body": "Дубай – город и эмират на побережье Персидского залива в Объединенных Арабских Эмиратах, который славится своими роскошными магазинами, ультрасовременной архитектурой, ресторанами и ночными клубами. Силуэт города формируют бесчисленные небоскребы, в том числе Бурдж-Халифа высотой 830 метров. У его основания расположен музыкальный фонтан Дубай, подсвеченный прожекторами. На искусственном острове рядом с побережьем находится курорт Atlantis The Palm с аквапарком и парком морских животных.",
-            "price": "Цена тура по запросу",
+            "title": "Dubai Tour",
+            "body": "Dubai is a city and emirate on the Persian Gulf coast in the United Arab Emirates, which is famous for its luxury shops, ultra–modern architecture, restaurants and nightclubs. The silhouette of the city is formed by countless skyscrapers, including the Burj Khalifa with a height of 830 meters. At its base is the Dubai Musical Fountain, illuminated by floodlights. On an artificial island near the coast is the Atlantis The Palm resort with an aquapark and a marine animal park.",
+            "price": "The price of the tour on request",
             "img": "https://avatars.mds.yandex.net/i?id=78dfeba61ce878e73d58b220ad25f559770f162b-12608381-images-thumbs&n=13",
             "img2": "https://avatars.mds.yandex.net/i?id=78dfeba61ce878e73d58b220ad25f559770f162b-12608381-images-thumbs&n=13",
             "places": [
                 {
-                    "title": "Бурдж-Халифа",
+                    "title": "Burj Khalifa",
                     "img": "https://avatars.mds.yandex.net/i?id=3de299b7153fc34c33f3e84184610e7001a6b4de-10653027-images-thumbs&n=13",
-                    "body": "«Бурдж-Хали́фа» — сверхвысотный небоскрёб высотой 828 метров в Дубае, самое высокое и самое многоэтажное здание в мире, а также самое высокое сооружение. Уступчатая форма здания напоминает сталагмит. Торжественная церемония открытия состоялась 4 января"
+                    "body": "Burj Khalifa is an 828-meter super—tall skyscraper in Dubai, the tallest and most multi-storey building in the world, as well as the tallest structure. The ledged shape of the building resembles a stalagmite. The opening ceremony took place on January 4"
                 },
                 {
-                    "title": "Пустыня в Дубае",
+                    "title": "Desert in Dubai",
                     "img": "https://avatars.mds.yandex.net/i?id=562ec849efda7daf48cad4313e6b580569b0dc40-10148308-images-thumbs&n=13",
-                    "body": "Пустыня в Дубае - крупнейшая на Аравийском полуострове, входит в топ-10 самых больших в мире. Территория сухих, жарких, и практически непроходимых песков 650 тысяч квадратных метров. Тем не менее, несмотря жестокость климата, сотни тысяч туристов ежегодно посещают дубайскую пустыню в погоне за приключениями."
+                    "body": "The desert in Dubai is the largest on the Arabian Peninsula and is one of the top 10 largest in the world. The territory of dry, hot, and almost impassable sands is 650 thousand square meters. Nevertheless, despite the cruelty of the climate, hundreds of thousands of tourists visit the Dubai desert every year in pursuit of adventure."
                 },
                 {
-                    "title": "Пальмовый Остров",
+                    "title": "Palm Island",
                     "img": "https://avatars.mds.yandex.net/i?id=2af8381d1fc8c942e5664c47c07420fe6629456e-5661135-images-thumbs&n=13",
-                    "body": "Настоящее чудо, появившееся в Дубае из морской пучины – это самый большой в мире рукотворный остров, очертаниями напоминающий финиковую пальму со множеством богатых вилл на её ветвях, роскошных отелей в стволе, а также променадом The Pointe – на макушке пальмы, который радует прекрасным видом на легендарный отель Атлантис."
+                    "body": "A real miracle that appeared in Dubai from the depths of the sea is the world's largest man–made island, shaped like a date palm with many rich villas on its branches, luxury hotels in the trunk, as well as The Pointe promenade – on top of a palm tree, which pleases with a wonderful view of the legendary Atlantis hotel."
                 },
                 {
-                    "title": "Шоу фонтанов",
+                    "title": "Fountain Show",
                     "img": "https://avatars.mds.yandex.net/i?id=d59363e45ad1c3fb0d4922503d6cca21ac71eda4-10113106-images-thumbs&n=13",
-                    "body": "Необычайно величественный и грандиозный белый фонтан у подножия самого высокого здания мира Башни Халифы – это словно “вишенка на торте” Дубайской обзорной экскурсии. Именно здесь, на просторном променаде, можно неспешно прогуливаться вдоль линии воды до самой Дубайской Оперы или присесть на лавочку после насыщенной поездки и насладиться знаменитыми музыкальными шедеврами в исполнении Дубайского Фонтана."
+                    "body": "The extraordinarily majestic and grandiose white fountain at the foot of the world's tallest building, the Khalifa Tower, is like the 'cherry on the cake' of a Dubai sightseeing tour. It is here, on the spacious promenade, that you can leisurely stroll along the water line all the way to the Dubai Opera or sit on a bench after an eventful trip and enjoy the famous musical masterpieces performed by the Dubai Fountain."
                 }
             ]
         },
         {
             "id": 7,
-            "title": "Тур по Турцию",
-            "body": "Турция – государство на юго-востоке Европы и юго-западе Азии, культура которого сочетает древнегреческие, персидские, римские, византийские и османские традиции. В многонациональном Стамбуле, раскинувшемся на берегах пролива Босфор, туристов привлекают знаменитый собор Святой Софии с его устремленным ввысь куполом и христианскими мозаиками, величественная Голубая мечеть XVII века и построенный в 1460-е годы дворец Топкапы – бывшая резиденция османских султанов. Столицей Турции является современный город Анкара",
-            "price": "Цена тура по запросу",
+            "title": "Tour of Turkey",
+            "body": "Turkey is a country in southeastern Europe and southwestern Asia, whose culture combines ancient Greek, Persian, Roman, Byzantine and Ottoman traditions. In multinational Istanbul, sprawled on the shores of the Bosphorus Strait, tourists are attracted by the famous Hagia Sophia Cathedral with its soaring dome and Christian mosaics, the majestic Blue Mosque of the XVII century and the Topkapi Palace built in the 1460s - the former residence of the Ottoman sultans. The capital of Turkey is the modern city of Ankara",
+            "price": "The price of the tour on request",
             "img": "https://avatars.mds.yandex.net/i?id=2a74fb596e1797a8da9462a5177b92f7396791ac-12468199-images-thumbs&n=13",
             "img2": "https://avatars.mds.yandex.net/i?id=2a74fb596e1797a8da9462a5177b92f7396791ac-12468199-images-thumbs&n=13",
             "places": [
                 {
-                    "title": "Сумельский монастырь",
+                    "title": "The Sumel Monastery",
                     "img": "https://traveltimes.ru/wp-content/uploads/2021/11/sumel-1024x684.jpg",
-                    "body": "Монастырь Сумела расположен на горе Мела недалеко от северо-восточного побережья Турции. Он был высечен в горах почти 1600 лет назад и действовал до 1925 года. В монастыре есть библиотека, часовня, церковь и несколько других помещений, открытых для публики. Те, кто попадает туда, будут вознаграждены потрясающими природными панорамными видами и некоторыми вариантами треккинга."
+                    "body": "The Sumela Monastery is located on Mount Mela near the northeast coast of Turkey. It was carved into the mountains almost 1600 years ago and operated until 1925. The monastery has a library, a chapel, a church and several other rooms open to the public. Those who get there will be rewarded with stunning natural panoramic views and some trekking options."
                 },
                 {
-                    "title": "Поход на гору Немрут",
+                    "title": "Hike to Mount Nemrut",
                     "img": "https://traveltimes.ru/wp-content/uploads/2021/11/nemrut-1024x681.jpg",
-                    "body": "Гора Немрут, поднимающаяся на высоту 2134 м (7001 фут), является объектом Всемирного наследия ЮНЕСКО и идеальным местом для тех, кто любит активный отдых. Достопримечательности на этой горе – статуи голов, которые были построены в 62 г. до н.э. царем Антиохом I с персидским и греческим влиянием. Желающие посетить гору Немрут могут выбрать экскурсию из Адыямана."
+                    "body": "Mount Nemrut, rising to a height of 2,134 m (7,001 ft), is a UNESCO World Heritage Site and an ideal place for those who love outdoor activities. The sights on this mountain are the statues of heads, which were built in 62 BC by King Antiochus I with Persian and Greek influences. Those who wish to visit Mount Nemrut can choose an excursion from Adiyaman."
                 },
                 {
-                    "title": "Анталия",
+                    "title": "Antalya",
                     "img": "https://avatars.mds.yandex.net/i?id=d544122fa1c53f2fe85bab671a75ab08e6a7899e-10869960-images-thumbs&n=13",
-                    "body": "Анталия – один из самых популярных курортов во всей Турции, который ежегодно привлекает миллионы туристов со всех концов страны и за ее пределами. Благодаря приятной погоде, мягким песчаным пляжам и многочисленным курортам на любой карман, Анталия остается одним из самых популярных туристических направлений Турции. Это также рай для любителей шоппинга, особенно для охотников за сувенирами."
+                    "body": "Antalya is one of the most popular resorts in all of Turkey, which attracts millions of tourists from all over the country and beyond every year. Due to the pleasant weather, soft sandy beaches and numerous resorts for every pocket, Antalya remains one of the most popular tourist destinations in Turkey. It is also a paradise for shoppers, especially souvenir hunters."
                 },
                 {
-                    "title": "Поход к каньону Саклыкент",
+                    "title": "Hike to Saklykent Canyon",
                     "img": "https://traveltimes.ru/wp-content/uploads/2021/11/sakliken-1024x576.jpg",
-                    "body": "Каньон Саклыкент является частью национального парка Саклыкент. Этот каньон длиной 18 км (11 миль) имеет глубину около 300 м (980 футов), что делает его одним из самых глубоких каньонов в мире. Уровень воды в этом каньоне падает в летние месяцы. Поскольку это пик туристического сезона, посетители каньона могут отправиться на дно каньона и насладиться величественным видом на крутые скалы."
+                    "body": "Saklykent Canyon is part of the Saklykent National Park. This 18 km (11 mi) long canyon has a depth of about 300 m (980 ft), making it one of the deepest canyons in the world. The water level in this canyon drops during the summer months. Since this is the peak tourist season, visitors to the canyon can go to the bottom of the canyon and enjoy the majestic view of the steep cliffs."
                 }
             ]
         },
         {
             "id": 8,
-            "title": "Медицинский туризм",
-            "body": "С нашей помощью каждый пациент найдет своего врача, а каждый врач и каждая медицинская клиника смогут позиционировать себя не только внутри страны, но и за ее пределами. Мы соединяем в одну цепочку зарубежных пациентов и медицинские учреждения Республики Узбекистан, помогаем отечественным клиникам и врачам перейти на новый, качественный, устойчивый уровень работы с иностранными пациентами.",
-            "price": "Цена тура по запросу",
+            "title": "Medical tourism",
+            "body": "With our help, every patient will find their own doctor, and every doctor and every medical clinic will be able to position themselves not only inside the country, but also abroad. We connect foreign patients and medical institutions of the Republic of Uzbekistan into one chain, help domestic clinics and doctors move to a new, high-quality, sustainable level of work with foreign patients.",
+            "price": "The price of the tour on request",
             "img": "https://travelrabbit.ru/wp-content/uploads/2020/09/rossii.jpg",
             "img2": "https://travelrabbit.ru/wp-content/uploads/2020/09/rossii.jpg",
             "places": [
                 {
-                    "title": "Урология",
+                    "title": "Urology",
                     "img": "https://basetop.ru/wp-content/uploads/2018/02/okke2xzj.jpg",
-                    "body": "Открывает десятку самых популярных направлений для медицинского туризма 2018 года Испания. А именно - город Малага, где находится международная больница Vithas Xanit. Она известна своим отделением урологии, которое предлагает передовые и щадящие технологии для лечения различных урологических расстройств. Одним из самых освоенных направлений является лазерная трансуретральная резекция простаты."
+                    "body": "Spain opens the top ten most popular destinations for medical tourism in 2018. Namely, the city of Malaga, where the Vithas Xanit International Hospital is located. She is known for her Department of Urology, which offers advanced and gentle technologies for the treatment of various urological disorders. One of the most developed areas is laser transurethral resection of the prostate."
                 },
                 {
-                    "title": "Неврология",
+                    "title": "Neurology",
                     "img": "https://basetop.ru/wp-content/uploads/2018/02/qeyy3414.jpg",
-                    "body": "В столице Индии в Нью-Дели находится клиника BLK Super Specialty Hospital, предлагающая широкий спектр медицинских услуг: от неврологии до психиатрии и ревматологии. Все услуги, в которых нуждаются пациенты, оказываются на месте, включая банк крови, компьютерную томографию, МРТ и рентген."
+                    "body": "The BLK Super Speciality Hospital is located in New Delhi, the capital of India, offering a wide range of medical services from neurology to psychiatry and rheumatology. All the services that patients need are provided on site, including a blood bank, CT scan, MRI and X-ray."
                 },
                 {
-                    "title": "Нейрохирургия",
+                    "title": "Neurology",
                     "img": "https://basetop.ru/wp-content/uploads/2018/02/qeyy3414.jpg",
-                    "body": "В столице Индии в Нью-Дели находится клиника BLK Super Specialty Hospital, предлагающая широкий спектр медицинских услуг: от неврологии до психиатрии и ревматологии. Все услуги, в которых нуждаются пациенты, оказываются на месте, включая банк крови, компьютерную томографию, МРТ и рентген."
+                    "body": "The BLK Super Speciality Hospital is located in New Delhi, the capital of India, offering a wide range of medical services from neurology to psychiatry and rheumatology. All the services that patients need are provided on site, including a blood bank, CT scan, MRI and X-ray."
                 }
             ]
         }
