@@ -116,7 +116,7 @@ const IdPage = async ({
                                     readMore. . .
                                 </span>
                             )}
-                            <a href="https://t.me/VISTATOURBEST">
+                            <a href="tel:+998507154050">
                                 <button className="w-full bg-[#00000030] p-3 rounded-lg text-center mt-2">
                                 {page.stick.button}
                                 </button>
