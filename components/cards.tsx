@@ -32,7 +32,6 @@ const Card: React.FunctionComponent<CardProps> = ({item,lang}) => {
                         className="w-4 h-4 ml-2 -mr-1"
                         fill="currentColor"
                         viewBox="0 0 20 20"
-                        xmlns="http://www.w3.org/2000/svg"
                     >
                         <path
                             fillRule="evenodd"
