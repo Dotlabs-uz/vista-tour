@@ -359,6 +359,36 @@
                     "body": "The BLK Super Speciality Hospital is located in New Delhi, the capital of India, offering a wide range of medical services from neurology to psychiatry and rheumatology. All the services that patients need are provided on site, including a blood bank, CT scan, MRI and X-ray."
                 }
             ]
+        },
+        {
+            "id": 9,
+            "title": "Educational tourism",
+            "body": "Have you dreamed of studying not only at the university, but also immersing yourself in the culture and history of different countries? We invite you to the exciting world of educational tourism, where education is combined with adventure, and study programs turn into exciting trips!",
+            "price": "The price of the tour on request",
+            "img": "https://vuzopedia.ru/storage/app/uploads/public/63a/58a/434/63a58a43430e6733064240.webp",
+            "img2": "https://vuzopedia.ru/storage/app/uploads/public/63a/58a/434/63a58a43430e6733064240.webp",
+            "places": [
+                {
+                    "title": "The methodology of research in education",
+                    "img": "https://askerweb.by/wp-content/uploads/2021/09/Vy-podhod.jpg",
+                    "body": "The methodology of research in education is a system of principles, methods, and approaches used to conduct scientific investigations in the field of education. It is aimed at systematizing and organizing the research process, as well as ensuring the reliability and objectivity of the obtained results."
+                },
+                {
+                    "title": "Professional communication",
+                    "img": "https://narisyu.cdnbro.com/posts/595636-delovoe-obshchenie-risunok-25.jpg",
+                    "body": "Professional communication is the exchange of information and ideas between people in a work context in order to effectively achieve common goals. In a professional environment, high-quality communication plays a key role in forming relationships, managing conflicts, making decisions and achieving success in work activities."
+                },
+                {
+                    "title": "Туризм и рекреация",
+                    "img": "https://avatars.mds.yandex.net/i?id=6dcb7101dc2aec66a3ccaff55b6f8337-3795566-images-thumbs&n=13",
+                    "body": "Туризм и рекреация играют ключевую роль в современном обществе, предоставляя людям возможность открыть для себя новые места, культуры и идеи, а также насладиться заслуженным отдыхом и восстановлением."
+                },
+                {
+                    "title": "The Tourism and Education module",
+                    "img": "https://sportishka.com/uploads/posts/2022-03/1646422072_20-sportishka-com-p-obrazovatelnii-turizm-turizm-krasivo-foto-24.jpg",
+                    "body": "The Tourism and Education module is a unique approach aimed at combining adventure and learning, creating a symbiosis that enriches both the mind and the soul."
+                }
+            ]
         }
     ]
 }

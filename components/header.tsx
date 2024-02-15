@@ -7,6 +7,7 @@ import {
     SelectTrigger,
     SelectValue,
 } from "@/components/ui/select";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 
 interface HeaderProps {
@@ -40,11 +41,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({ page, lang }) => {
         <header className=" w-full p-4 bg-[#3ba4ec]">
             <div className="container m-auto flex items-center justify-between">
                 <div className="flex items-center text-white gap-4">
-                    {/* <img
-                        src="https://cdn-icons-png.flaticon.com/512/3942/3942104.png"
-                        alt="qwerty"
-                        className="h-10 max-[530px]:hidden"
-                    /> */}
+                    {/* <Image src={"/logo.png"} width={00} height={200} alt=""/> */}
                     <p className="text-xl cursor-pointer">VISTA TOUR</p>
                 </div>
                 <nav>

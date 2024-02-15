@@ -17,7 +17,7 @@ const IdPage = async ({
                 <div className="div w-full absolute -z-10 h-[600px] max-[680px]:h-[400px] max-[500px]:h-[300px] max-[400px]:h-[250px] after:absolute after:inset-0 after:bg-[rgba(0,0,0,.5)] after:z-[2]">
                     <img
                         className="w-full absolute -z-10 h-[600px] max-[680px]:h-[400px] max-[500px]:h-[300px] max-[400px]:h-[250px] object-cover"
-                        src={tours.img2}
+                        src={tours?.img2}
                         alt=""
                     />
                 </div>
@@ -116,7 +116,7 @@ const IdPage = async ({
                                     readMore. . .
                                 </span>
                             )}
-                            <a href="https://t.me/fevzie_ablaeva">
+                            <a href="https://t.me/VISTATOURBEST">
                                 <button className="w-full bg-[#00000030] p-3 rounded-lg text-center mt-2">
                                 {page.stick.button}
                                 </button>

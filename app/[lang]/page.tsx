@@ -29,7 +29,7 @@ export default async function Home({
             />
             <FirstSection page={page}/>
             {/* <div className="w-[100%] bg-[#3ba4ec] h-14 mt-60"></div> */}
-            <section className="container px-5 m-auto w-[100%] overflow-x-hidden mt-52 max-xl:mt-24 max-md:mt-0">
+            <section className="container px-5 m-auto w-[100%] overflow-x-hidden mt-52 max-xl:mt-24 max-md:mt-16 max-[500px]:mt-0">
                 <div className="max-w-5xl">
                     <h2
                         data-aos="fade-left"
