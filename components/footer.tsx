@@ -7,7 +7,7 @@ interface FooterProps {}
 
 const Footer: React.FunctionComponent<FooterProps> = () => {
     return (
-        <footer className="p-4 bg-transparent mt-10 border-t-2 rounded-lg shadow md:px-6 md:py-8">
+        <footer id="footer" className="p-4 bg-transparent mt-10 border-t-2 rounded-lg shadow md:px-6 md:py-8">
             <div className="flex items-center justify-center gap-5 flex-col">
                 <div className="flex items-center gap-2 ">
                     <p className="text-xl font-medium max-sm:text-sm">

@@ -1,4 +1,5 @@
 import Card from "@/components/cards";
+import FirstSection from "@/components/firstSection";
 import Header from "@/components/header";
 import {
     Accordion,
@@ -8,7 +9,6 @@ import {
 } from "@/components/ui/accordion";
 import { Locale } from "@/i18n.config";
 import { getDictionary } from "@/lib/dictionary";
-import Image from "next/image";
 
 export default async function Home({
     params: { lang },
@@ -27,41 +27,7 @@ export default async function Home({
                 }
                 alt=""
             />
-            <section className="flex items-center justify-center px-6 m-auto w-fll py-28 text-white max-xl:py-[50px] max-lg:py-12 max-md:py-11 max-md:gap-10 max-sm:py-5">
-                <div
-                    className="max-w-3xl w-full mt-24 max-sm:mt-16 max-[430px]:mt-0 sm:backdrop-blur-sm p-5 rounded-lg"
-                >
-                    <h1 className="text-start text-5xl max-xl:text-3xl max-lg:text-2xl max-md:text-2xl">
-                        {page.h1}
-                    </h1>
-                    <ul className="mt-10 max-sm:mt-5 max-md:grid-cols-2">
-                        <li className="text-2xl max-lg:text-base max-sm:text-sm">
-                            - {page.text}
-                        </li>
-                        <li className="text-2xl max-lg:text-base max-sm:text-sm">
-                            - {page.text2}
-                        </li>
-                        <li className="text-2xl max-lg:text-base max-sm:text-sm">
-                            - {page.text3}
-                        </li>
-                    </ul>
-                    <div className="select-none flex max-[639px]:justify-center ">
-                        <button className="p-2 rounded-full bg-[#3ba4ec] animate-bounce mt-10">
-                            <svg
-                                className=" w-9 h-9 text-white"
-                                fill="none"
-                                strokeLinecap="round"
-                                strokeLinejoin="round"
-                                strokeWidth="2"
-                                viewBox="0 0 24 24"
-                                stroke="currentColor"
-                            >
-                                <path d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
-                            </svg>{" "}
-                        </button>
-                    </div>
-                </div>
-            </section>
+            <FirstSection page={page}/>
             {/* <div className="w-[100%] bg-[#3ba4ec] h-14 mt-60"></div> */}
             <section className="container px-5 m-auto w-[100%] overflow-x-hidden mt-52 max-xl:mt-24 max-md:mt-0">
                 <div className="max-w-5xl">
@@ -82,12 +48,6 @@ export default async function Home({
                         data-aos-duration="500"
                     >
                         {page.infoText}
-                        <button
-                            className="text-blue-500"
-                            // onClick={() => handleClickOpen("paper")}
-                        >
-                            {page.readMore}...
-                        </button>
                     </p>
                 </div>
 
@@ -110,7 +70,7 @@ export default async function Home({
                     </section>
                 </div>
 
-                <h2 className="text-3xl mb-5 max-lg:text-xl max-sm:text-sm">
+                <h2 id="question" className="text-3xl mb-5 max-lg:text-xl max-sm:text-sm">
                     {page.Answers}
                 </h2>
                 <Accordion

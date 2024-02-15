@@ -14,6 +14,19 @@ interface HeaderProps {
     lang: string;
 }
 
+export const scrollToContent = (e:any, contentId:string) => {
+    e.preventDefault();
+  
+    const content = document.getElementById(contentId);
+    if (content) {
+      content.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+        inline: 'nearest'
+      });
+    }
+  };
+
 const Header: React.FunctionComponent<HeaderProps> = ({ page, lang }) => {
     function ChangeLanguage() {}
 
@@ -37,19 +50,19 @@ const Header: React.FunctionComponent<HeaderProps> = ({ page, lang }) => {
                 <nav>
                     <div className="flex gap-5 text-white items-center">
                         <p
-                            // onClick={scrollTour}
+                            onClick={(e)=> scrollToContent(e, "tours")}
                             className="cursor-pointer max-[580px]:hidden"
                         >
                             {page.toursText}
                         </p>
                         <p
-                            // onClick={scrollBottom}
+                            onClick={(e)=> scrollToContent(e, "question")}
                             className="cursor-pointer max-[580px]:hidden"
                         >
                             {page.QuestionText}
                         </p>
                         <p
-                            // onClick={scrollBottom}
+                            onClick={(e)=> scrollToContent(e, "footer")}
                             className="cursor-pointer max-[580px]:hidden"
                         >
                             {page.ContactsText}
