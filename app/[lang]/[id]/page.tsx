@@ -2,6 +2,7 @@ import { Locale } from "@/i18n.config";
 import { getDictionary } from "@/lib/dictionary";
 import Link from "next/link";
 import { BiLeftArrowAlt } from "react-icons/bi";
+import FormSubmit from "@/components/formSubmit";
 
 const IdPage = async ({
     params: { lang, id },
@@ -9,7 +10,7 @@ const IdPage = async ({
     params: { lang: Locale; id: string };
 }) => {
     const tours = await (await getDictionary(lang)).tours[+id - 1];
-    const page = await (await getDictionary(lang)).page
+    const page = await (await getDictionary(lang)).page;
 
     return (
         <>
@@ -76,13 +77,13 @@ const IdPage = async ({
                             ) : (
                                 <div className="duration flex justify-between mb-3">
                                     <h1 className=" font-bold max-xl:font-semibold">
-                                    {page.stick.title}
+                                        {page.stick.title}
                                     </h1>
                                 </div>
                             )}
                             <div className="duration flex justify-between mb-3">
                                 <h1 className=" font-bold max-xl:font-semibold">
-                                {page.stick.durationH1}
+                                    {page.stick.durationH1}
                                 </h1>
                                 <p>{page.stick.time}</p>
                             </div>
@@ -92,7 +93,7 @@ const IdPage = async ({
                             ) : (
                                 <div className="duration flex justify-between mb-3">
                                     <h1 className=" font-bold max-xl:font-semibold ">
-                                    {page.stick.howH1}
+                                        {page.stick.howH1}
                                     </h1>
                                     <p>{page.stick.how}</p>
                                 </div>
@@ -100,27 +101,14 @@ const IdPage = async ({
                         </div>
                         <div className="bot pt-3">
                             <div className="prices flex justify-between">
-                                <h1 className="font-bold">{page.stick.price}</h1>
+                                <h1 className="font-bold">
+                                    {page.stick.price}
+                                </h1>
                                 <p className="font-bold text-lg max-[400px]:text-base max-[400px]:font-medium">
                                     {tours.price}
                                 </p>
                             </div>
-                            {tours.price.includes("тур") ||
-                            tours.price.toLowerCase().includes("tour") ? (
-                                ""
-                            ) : (
-                                <span
-                                    // onClick={() => handleClickOpen("paper")}
-                                    className=" underline cursor-pointer text-white"
-                                >
-                                    readMore. . .
-                                </span>
-                            )}
-                            <a href="tel:+998507154050">
-                                <button className="w-full bg-[#00000030] p-3 rounded-lg text-center mt-2">
-                                {page.stick.button}
-                                </button>
-                            </a>
+                            <FormSubmit page={page} />
                         </div>
                     </div>
                 </div>
