@@ -21,11 +21,12 @@ const FormSubmit = ({ page }: any) => {
         register,
         handleSubmit,
         watch,
+        reset,
         formState: { errors },
     } = useForm<Inputs>();
 
     const onSubmit: SubmitHandler<Inputs> = async (data) => {
-        let msg = `🆕\n`;
+        let msg = `🆕 Заявка\n`;
         msg += `👨 Имя: ${data?.name} \n`;
         msg += `📞 Номер телефона: ${data.number} \n`;
         msg += `ОТ: ${data.from} \n`;
@@ -40,6 +41,7 @@ const FormSubmit = ({ page }: any) => {
             .then((res) => {
                 if (res.status === 200 || res.status === 201) {
                     setNumber("");
+                    reset()
                 }
             })
             .catch((err) => console.log(err));
@@ -57,6 +59,7 @@ const FormSubmit = ({ page }: any) => {
             <InputMask
                 mask="+\9\98-(99)-999-99-99"
                 required
+                placeholder="Номер"
                 {...register("number", { required: true })}
                 value={number}
                 onChange={(e: any) => setNumber(e.target.value)}
