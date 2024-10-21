@@ -20,7 +20,7 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                 <div className="flex items-center gap-2 flex-col">
                     <div className="flex items-center gap-4 max-md:gap-2">
                         <Link
-                            href="https://t.me/VISTATOURBEST"
+                            href="https://t.me/Vistatourbest"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaTelegram size={30} />
