@@ -39,7 +39,7 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                             <FaFacebook size={30} />
                         </Link>
                         <Link
-                            href="http://suhrobuk87@gmail.com"
+                            href="mailto:vistatourbest@mail.ru"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FiMail size={30} />
