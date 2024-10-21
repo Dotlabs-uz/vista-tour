@@ -26,13 +26,13 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                             <FaTelegram size={30} />
                         </Link>
                         <Link
-                            href="https://www.instagram.com/suhrobvista/"
+                            href="https://www.instagram.com/suhrobvista"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaInstagram size={30} />
                         </Link>
                         <Link
-                            href="https://www.instagram.com/suhrobvista/"
+                            href="https://www.instagram.com/suhrobvista"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaFacebook size={30} />
