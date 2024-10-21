@@ -29,6 +29,7 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                             href="https://www.instagram.com/suhrobvista"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
+                            
                             <FaInstagram size={30} />
                         </Link>
                         <Link
