@@ -42,7 +42,7 @@ const Header: React.FunctionComponent<HeaderProps> = ({ page, lang }) => {
             <div className="container m-auto flex items-center justify-between">
                 <div className="flex items-center text-white gap-4">
                     {/* <Image src={"/logo.png"} width={00} height={200} alt=""/> */}
-                    <p className="text-xl cursor-pointer">VISTA TOUR</p>
+                    <p className="text-xl cursor-pointer">OKEYTOUR</p>
                 </div>
                 <nav>
                     <div className="flex gap-5 text-white items-center">
