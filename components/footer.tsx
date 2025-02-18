@@ -14,32 +14,32 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                         Контакты
                     </p>
                     <a href="tel:+998507154050" className="text-xl font-bold max-sm:text-sm">
-                        +998 50 715 40 50
+                        +998 90 600 64 07
                     </a>
                 </div>
                 <div className="flex items-center gap-2 flex-col">
                     <div className="flex items-center gap-4 max-md:gap-2">
                         <Link
-                            href="https://t.me/Vistatourbest"
+                            href="https://t.me/diamond_338x"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaTelegram size={30} />
                         </Link>
                         <Link
-                            href="https://www.instagram.com/suhrobvista"
+                            href="https://www.instagram.com/rustik_571"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             
                             <FaInstagram size={30} />
-                        </Link>
+{/*                         </Link>
                         <Link
                             href="https://www.instagram.com/suhrobvista"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FaFacebook size={30} />
-                        </Link>
+                        </Link> */}
                         <Link
-                            href="mailto:vistatourbest@mail.ru"
+                            href="mailto:azimaxrorxodjaev@gmail.com"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
                             <FiMail size={30} />
