@@ -49,7 +49,7 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
             </div>
             <hr className="my-6 border-gray-200 sm:mx-aut lg:my-8" />
             <span className="block text-sm text-gray-500 text-center">
-                ©<span className="hover:underline">VISTA TOUR™</span>. All Rights
+                ©<span className="hover:underline">OKEYTOUR™</span>. All Rights
                 Reserved.
             </span>
         </footer>
