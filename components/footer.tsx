@@ -31,8 +31,8 @@ const Footer: React.FunctionComponent<FooterProps> = () => {
                         >
                             
                             <FaInstagram size={30} />
-{/*                         </Link>
-                        <Link
+                         </Link>
+{/*                        <Link
                             href="https://www.instagram.com/suhrobvista"
                             className="text-gray-400 hover:text-[#3ba4ec]"
                         >
