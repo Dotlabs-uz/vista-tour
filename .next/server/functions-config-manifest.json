@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/tourvisor/search/results": {},
+    "/api/tourvisor/search/start": {}
+  }
+}

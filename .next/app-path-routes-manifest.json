@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/api/tourvisor/search/results/route": "/api/tourvisor/search/results",
+  "/api/tourvisor/search/start/route": "/api/tourvisor/search/start"
+}

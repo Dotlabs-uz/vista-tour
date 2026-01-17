@@ -1,0 +1,49 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-a214bc16073c1085.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-cb395327542b56ef.js",
+      "static/chunks/main-app-fcd462108ab899c0.js",
+      "static/chunks/app/_not-found/page-736c4ee39fe2ebdc.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack-a214bc16073c1085.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-cb395327542b56ef.js",
+      "static/chunks/main-app-fcd462108ab899c0.js",
+      "static/chunks/app/not-found-2af06cf77197f27c.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-a214bc16073c1085.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-cb395327542b56ef.js",
+      "static/chunks/main-app-fcd462108ab899c0.js",
+      "static/css/618bc8141936cafe.css",
+      "static/chunks/388-79374d9328ecaddc.js",
+      "static/chunks/app/layout-d89967121769aa78.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-a214bc16073c1085.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-cb395327542b56ef.js",
+      "static/chunks/main-app-fcd462108ab899c0.js",
+      "static/chunks/848-6a0563e2e25bed87.js",
+      "static/chunks/app/page-10ef12b3575ea44d.js"
+    ],
+    "/api/tourvisor/search/results/route": [
+      "static/chunks/webpack-a214bc16073c1085.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-cb395327542b56ef.js",
+      "static/chunks/main-app-fcd462108ab899c0.js",
+      "static/chunks/app/api/tourvisor/search/results/route-736c4ee39fe2ebdc.js"
+    ],
+    "/api/tourvisor/search/start/route": [
+      "static/chunks/webpack-a214bc16073c1085.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-cb395327542b56ef.js",
+      "static/chunks/main-app-fcd462108ab899c0.js",
+      "static/chunks/app/api/tourvisor/search/start/route-736c4ee39fe2ebdc.js"
+    ]
+  }
+}
