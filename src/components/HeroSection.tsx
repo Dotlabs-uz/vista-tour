@@ -1,5 +1,6 @@
 import heroImage from "@/assets/hero-beach.jpg";
 import Image from "next/image";
+// local
 
 const SearchWidget = () => {
   return (
